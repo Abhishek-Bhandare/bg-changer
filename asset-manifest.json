@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bg-changer/static/css/main.d6f72ed7.css",
+    "main.js": "/bg-changer/static/js/main.ac277aba.js",
+    "index.html": "/bg-changer/index.html",
+    "main.d6f72ed7.css.map": "/bg-changer/static/css/main.d6f72ed7.css.map",
+    "main.ac277aba.js.map": "/bg-changer/static/js/main.ac277aba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6f72ed7.css",
+    "static/js/main.ac277aba.js"
+  ]
+}
